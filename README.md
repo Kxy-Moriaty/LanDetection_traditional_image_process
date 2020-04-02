@@ -7,7 +7,7 @@
 > 当初没有工程经验和工程思维，只想着迅速做出功能和在数据集上的效果，所以对外接口不友好，以后有精力会修改。
 
 一些测试样例：
-![晴天](https://github.com/Kxy-Moriaty/LanDetection_traditional_image_process/blob/master/Image/%E6%B5%8B%E8%AF%95.png)
+![测试样例](https://github.com/Kxy-Moriaty/LanDetection_traditional_image_process/blob/master/Image/%E6%B5%8B%E8%AF%95.png)
 
 
 分块投影算法是我的导师任明武教授提出的，我只是进行了实现。
